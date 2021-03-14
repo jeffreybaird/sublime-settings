@@ -1,0 +1,5 @@
+{
+  "lint_mode": "load_save",
+  "debug":true,
+  "esversion": 6
+}

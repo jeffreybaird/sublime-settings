@@ -1,0 +1,14 @@
+{
+	"afn_use_project_root": false,
+	"color_scheme": "Packages/Theme - Gravity/Monokai Gravity.sublime-color-scheme",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Gravity.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"AutoSpell",
+		"ESLint-Formatter",
+		"File Rename",
+		"Google Spell Check",
+		"GraphQL",
+		"Package Control",
+		"Pretty JSON",
+		"ReIndent",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"Theme - Gravity",
+		"VIM Navigation"
+	]
+}
